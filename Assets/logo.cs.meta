@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: d03815439563ac54b8a4dbb53b32fcf1
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - humax: {fileID: 2800000, guid: bd5ef394bc8ff844aac77d0180a55299, type: 3}
+  - isc: {fileID: 2800000, guid: bd5ef394bc8ff844aac77d0180a55299, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: eae1a661fcc93c442a8065a33ecea506
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - thisfish: {instanceID: 0}
+  - fishcolor: {fileID: 2800000, guid: 7c4a2cf04544ae34a8d99daa384b8e13, type: 3}
+  - graytexture: {fileID: 2800000, guid: a08cead7494e4cf49b59de18cb22b7a7, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
